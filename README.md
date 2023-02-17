@@ -19,6 +19,6 @@
  <br>
  <br>
  <p>
-  Projeto do curso da Rocketseat, aplicação que consome a API do Github, projeto para treinar OOP, e todos conhecimentos acima.
+  Projeto do curso da Rocketseat, aplicação que consome a API do Github, projeto para treinar OOP, e todos conhecimentos listados acima.
  </p>
 </ul>
