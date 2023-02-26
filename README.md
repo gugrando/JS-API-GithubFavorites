@@ -1,4 +1,4 @@
-<h1 align="center" > Consumo de API Github </h1>
+<h1 align="center" > Github API application </h1>
 <img  src="https://github.com/gugrando/JS-API-GithubFavorites/blob/main/readme/gitFavs.gif"/>
 <h1 align="start"> Stacks: </h1>
 <ul align="start"> 
@@ -6,7 +6,7 @@
   <li>HTML5</li>
   <li>CSS3</li>
 </ul>
-<h3 align="center">Conhecimentos Aplicados:</h3>
+<h3>Knowledge studied:</h3>
 <ul align="start"> 
   <li>High Order Functions</li>
   <li>Promises & Async/Await</li>
@@ -18,7 +18,8 @@
  <br>
  <br>
  <br>
- <p>
-  Projeto do curso da Rocketseat, aplicação que consome a API do Github, projeto para treinar OOP, e todos conhecimentos listados acima.
+ <h3 align="center">About</h3>
+ <p align="center">
+  Rocketseat's project, application that consumes the github's API, to train OOP and all the knowledge listed above.
  </p>
 </ul>
